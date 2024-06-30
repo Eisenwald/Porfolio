@@ -39,3 +39,28 @@ Developed scripts and modules using Lua for various applications and game mechan
 Integrated Lua scripts into larger projects, ensuring smooth functionality and performance.
 
 Debugged and optimized code to enhance efficiency and reduce errors.
+
+# Animator
+Self-Employed And Staff
+Duration: 2 years
+
+3D animations for games, videos, and other digital media.
+
+Worked with animation software such as Blender, Blockbench, Mine-imator
+
+Coordinated with other team members to ensure cohesive and high-quality animations.
+
+# Skills
+Game Development: Unreal Engine, Minecraft Modding, Roblox Game Developing
+
+Programming Languages: Blueprint, C++, Lua
+
+Animation: 3D Animation, Blender, Blockbench, Mine-imator
+Other Tools: Git, Rojo, Knit
+
+# Education
+[High School Student]
+
+# Additional Information
+Languages: Fluent in Turkish and English but I can't speak fluently :( 
+Interests: Game Design, Animation, Programming, Virtual Reality, Gaming
