@@ -62,5 +62,7 @@ Other Tools: Git, Rojo, Knit
 [High School Student]
 
 # Additional Information
+
 Languages: Fluent in Turkish and English but I can't speak fluently :( 
+
 Interests: Game Design, Animation, Programming, Virtual Reality, Gaming
